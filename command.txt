@@ -18,3 +18,7 @@ fast forward
 
 ##merge2
 head branch에 commit
+
+
+##의도적 충돌
+ㅁㅁ
