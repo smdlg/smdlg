@@ -27,3 +27,8 @@ happly because money~
 ##의도적 충돌
 ㅁㅁ
 
+##commit reply
+
+##reset
+easy but commit delete
+강제 푸쉬가 필요
