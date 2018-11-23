@@ -20,5 +20,10 @@ fast forward
 head branch에 commit
 
 
+
 ##오늘의 기분~
 happly because money~
+
+##의도적 충돌
+ㅁㅁ
+
